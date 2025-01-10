@@ -1,4 +1,4 @@
-**Flower Detection Using Machine Learning and AI**<br>
+**FloraVision: AI-Powered Flower Recognition**<br>
 
 **Project Overview**<br>
 
